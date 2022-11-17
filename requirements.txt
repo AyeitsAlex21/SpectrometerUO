@@ -1,0 +1,6 @@
+tk=0.1.0
+Pillow=9.3.0
+pyserial=3.5
+numpy=1.23.4
+freetype-py=2.3.0
+pypng=0.20220715.0
